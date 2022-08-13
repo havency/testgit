@@ -7,3 +7,4 @@ Another thing to mention
 This is just a test
 Well yes this is a test and I am trying some log function
 Please try to test more and use this wisely
+github test
